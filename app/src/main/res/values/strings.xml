@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BondImage</string>
+    <string name="app_name2">aira01b</string>
+    <string name="blank"> </string>
+
+
+    <string name="pref_manipulate_image">Manipulate Image</string>
+    <string name="select_source_image_label">Select&#8230;</string>
+    <string name="source_image_title">Source Image</string>
+    <string name="destination_image_title">Target Image</string>
+    <string name="source_image_1">Source Image 1</string>
+    <string name="source_image_2">Source Image 2</string>
+
+    <string name="data_loading">Loading&#8230;</string>
+    <string name="cannot_load_bitmap">Image load failed&#8230; </string>
+
+    <string name="dialog_title_select_image_effect">Select Image Effect</string>
+    <string name="warning_please_select_both_image">Please Select both Image File.</string>
+    <string name="effect_process_failure">Image Processing is failure.</string>
+    <string name="warning_picture_size_exceeded">Target image size is too large.</string>
+
+    <string name="data_saving">Saving&#8230;</string>
+    <string name="effected_save_image_failure">Image save failed&#8230;</string>
+    <string name="effected_save_image_success">Image saved.</string>
+
+    <string name="share_chooser_title">Share</string>
+    <string name="image_save_first">Please save image first.</string>
+
+    <string name="effect_image_title">Image Effect</string>
+    <string name="share_image_label">Share&#8230;</string>
+    <string name="action_save_manipulate_image">Save Image</string>
+</resources>

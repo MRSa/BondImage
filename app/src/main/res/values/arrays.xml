@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_select_effect_process">
+        <item>Combine (Left to Right)</item>
+        <item>Combine (Up and Down)</item>
+        <item>Combine (Left to Right, resized)</item>
+        <item>Combine (Up and Down, resized)</item>
+        <item>Picture in Picture</item>
+        <item>Picture in Picture (Small)</item>
+    </string-array>
+</resources>
